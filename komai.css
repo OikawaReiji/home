@@ -10,13 +10,7 @@ h1{
 	border: solid 10px red;
 }
 
-.co{
-	padding-left : 10%;
-}
 
-.yellow{
-	color : #FF66FF;
-}
 
 .koma{
 	font-size : 30px;
@@ -47,22 +41,3 @@ p{
 	background : #OFF;
 	font-size : 16px
 }
-
-img{
-	height :400px;
-	width : 500px;
-	border : #OFF;
-}
-
-.omu{
-	border-bottom : dotted 5px red;
-	width : 20%;
-	margin : 0 auto;
-}
-
-.supo{
-	border-bottom : double 5px blue;
-	width : 25%;
-	margin : 10px 15px 3px 7px;
-}
-
