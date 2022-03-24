@@ -5,11 +5,9 @@ body{
 
 h1{
 	color : #000000;
-	background : #OFF;
 	width : 25%;
 	border: solid 10px red;
 }
-
 
 
 .koma{
@@ -36,8 +34,3 @@ h1{
 	text-align : center;
 }
 
-p{
-	color : #000000;
-	background : #OFF;
-	font-size : 16px
-}
