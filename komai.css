@@ -1,0 +1,68 @@
+@charset "utf-8";
+body{
+	background : #CCFFCC;
+}
+
+h1{
+	color : #000000;
+	background : #OFF;
+	width : 25%;
+	border: solid 10px red;
+}
+
+.co{
+	padding-left : 10%;
+}
+
+.yellow{
+	color : #FF66FF;
+}
+
+.koma{
+	font-size : 30px;
+	text-align : center;
+	width : 25%;
+}
+
+.a{
+ font-size : 22px;
+}
+
+.come{
+	border-bottom : solid 5px red;
+	width : 13%;
+	text-align : center;
+}
+
+.aka{
+	color : red;
+}
+
+.center{
+	text-align : center;
+}
+
+p{
+	color : #000000;
+	background : #OFF;
+	font-size : 16px
+}
+
+img{
+	height :400px;
+	width : 500px;
+	border : #OFF;
+}
+
+.omu{
+	border-bottom : dotted 5px red;
+	width : 20%;
+	margin : 0 auto;
+}
+
+.supo{
+	border-bottom : double 5px blue;
+	width : 25%;
+	margin : 10px 15px 3px 7px;
+}
+
