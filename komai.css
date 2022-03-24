@@ -34,3 +34,15 @@ h1{
 	text-align : center;
 }
 
+.child{
+    border: 5px solid white;
+    flex-basis: 200px;
+    padding: 10px;
+    background: #ff838b;
+}
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+}
