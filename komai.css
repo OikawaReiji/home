@@ -38,11 +38,10 @@ h1{
     border: 5px solid white;
     flex-basis: 200px;
     padding: 10px;
-    background: #ff838b;
 }
 
 .pa{
     display: flex;
     flex-wrap: wrap;
-    width: 700px;
+    width: 1000px;
 }
