@@ -35,7 +35,7 @@ h1{
 }
 
 .ca{
-    border-right: 5px solid white;
+    border-right: dashed 10px black;
     flex-grow: 1 ;
     padding: 10px
 }
