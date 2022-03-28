@@ -46,3 +46,8 @@ h1{
     padding: 0 auto;
 }
 
+.life{
+	border-top: dashed 10px black;
+	margin-bottom: 150px;
+	padding-top: 50px;
+ }
