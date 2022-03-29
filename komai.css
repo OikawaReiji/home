@@ -61,3 +61,10 @@ h1{
 	margin: 0 auto;
 }
 
+th{
+	border : 1px blue solid;
+}
+
+tr{
+	background: ghostwhite;
+}
