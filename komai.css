@@ -48,6 +48,16 @@ h1{
 
 .life{
 	border-top: dashed 10px black;
-	margin-bottom: 150px;
 	padding-top: 50px;
- }
+	flex-grow: 0;
+}
+
+ .kei{
+	border-bottom: 10% solid red;
+}
+
+.center{
+	text-align: center;
+	margin: 0 auto;
+}
+
